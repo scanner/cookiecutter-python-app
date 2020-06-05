@@ -1,0 +1,4 @@
+## Python pip-tool requirements for using the {{ cookiecutter.app_name }} application.
+##
+python-dotenv>=0.12
+PyYAML>=3.11
